@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\asliceren\\desktop\\projectx\\intermediate\\build\\win64\\unrealeditor\\inc\\projectx\\uht\\projectx.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\asliceren\\desktop\\projectx\\intermediate\\build\\win64\\x64\\projectxeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\asliceren\\desktop\\projectx\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectx\\definitions.projectx.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
