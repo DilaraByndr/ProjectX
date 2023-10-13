@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\asliceren\\desktop\\projectx\\intermediate\\build\\win64\\unrealeditor\\inc\\projectx\\uht\\tp_weaponcomponent.gen.cpp",
+        "Source": "c:\\users\\tarkan\\documents\\github\\projectx\\projectx\\intermediate\\build\\win64\\unrealeditor\\inc\\projectx\\uht\\tp_weaponcomponent.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\asliceren\\desktop\\projectx\\intermediate\\build\\win64\\x64\\projectxeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "PCH": "c:\\users\\tarkan\\documents\\github\\projectx\\projectx\\intermediate\\build\\win64\\x64\\projectxeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
         "Includes": [
-            "c:\\users\\asliceren\\desktop\\projectx\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectx\\definitions.projectx.h",
-            "c:\\users\\asliceren\\desktop\\projectx\\source\\projectx\\tp_weaponcomponent.h",
-            "c:\\users\\asliceren\\desktop\\projectx\\intermediate\\build\\win64\\unrealeditor\\inc\\projectx\\uht\\tp_weaponcomponent.generated.h"
+            "c:\\users\\tarkan\\documents\\github\\projectx\\projectx\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\projectx\\definitions.projectx.h",
+            "c:\\users\\tarkan\\documents\\github\\projectx\\projectx\\source\\projectx\\tp_weaponcomponent.h",
+            "c:\\users\\tarkan\\documents\\github\\projectx\\projectx\\intermediate\\build\\win64\\unrealeditor\\inc\\projectx\\uht\\tp_weaponcomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
