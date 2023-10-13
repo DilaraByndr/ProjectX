@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/PhotoMaterial.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/PhotoDisplay.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/CurrentPhotoRenderTarget.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/PhotoMaterial_Inst.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/PhotoGallery.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/IndividualPhoto.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/BP_Camera.uasset"
+			]
+		}
+	]
+}
