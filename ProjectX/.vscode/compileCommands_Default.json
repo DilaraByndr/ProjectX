@@ -1,105 +1,105 @@
 [
 	{
-		"file": "C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectX.Build.cs",
+		"file": "C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectX.Build.cs",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectX.cpp",
+		"file": "C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectX.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectX.h",
+		"file": "C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectX.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectXCharacter.cpp",
+		"file": "C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectXCharacter.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectXCharacter.h",
+		"file": "C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectXCharacter.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectXGameMode.cpp",
+		"file": "C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectXGameMode.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectXGameMode.h",
+		"file": "C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectXGameMode.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectXProjectile.cpp",
+		"file": "C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectXProjectile.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectXProjectile.h",
+		"file": "C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\ProjectXProjectile.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\TP_PickUpComponent.cpp",
+		"file": "C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\TP_PickUpComponent.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\TP_PickUpComponent.h",
+		"file": "C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\TP_PickUpComponent.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\TP_WeaponComponent.cpp",
+		"file": "C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\TP_WeaponComponent.cpp",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\TP_WeaponComponent.h",
+		"file": "C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\Source\\ProjectX\\TP_WeaponComponent.h",
 		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Tarkan\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\asliceren\\Documents\\GitHub\\ProjectX\\ProjectX\\.vscode\\compileCommands_Default\\ProjectX.261.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
 	}
