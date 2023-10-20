@@ -9,7 +9,6 @@
 				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/BP_InspectItem.uasset",
 				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/Interfaces/BPI_InteractItems.uasset",
 				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/NR/3FM7L8W9GIX8Q53VZKVD4E.uasset",
-				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/BP_Camera.uasset",
 				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/Chapters/Prototyping/Office.umap",
 				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/PolygonPacks/hat_stylised.uasset",
 				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/PolygonPacks/katil.uasset",
@@ -99,6 +98,14 @@
 				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/Animation/Catwalk_Walk_Forward_02.uasset",
 				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/Animation/Catwalk_Walk_Forward_02_PhysicsAsset.uasset",
 				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/Animation/Catwalk_Walk_Forward_02_Skeleton.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/Interact.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/UserInterface/HeadsUpDisplay.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/DialogueTree/BB_Dialogue.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/DialogueTree/StartDialogue.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/DialogueTree/DialogueTree.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/Interfaces/InteractInterface.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/BP_Camera.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/MyProjectXGameMode.uasset",
 				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/JW/GL8B7I6EMDS75NXNBOHSYB.uasset",
 				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/lambert3.uasset"
 			]
