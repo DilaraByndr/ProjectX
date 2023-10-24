@@ -3410,3 +3410,11 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.10.24-14.04.13:132][635]LogViewport: Scene viewport resized to 1469x499, mode Windowed.
 [2023.10.24-14.04.13:160][637]LogViewport: Scene viewport resized to 1469x495, mode Windowed.
 [2023.10.24-14.04.13:205][641]LogViewport: Scene viewport resized to 1469x487, mode Windowed.
+[2023.10.24-14.07.03:957][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.10.24-14.07.05:742][992]LogSlate: Window 'Save Content' being destroyed
+[2023.10.24-14.07.05:750][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.24-14.07.05:787][992]LogSavePackage: Moving output files for package: /Game/NPC/Characters/Animations/Gathering_Objects_Police2
+[2023.10.24-14.07.05:787][992]LogSavePackage: Moving '../../../../../../Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Saved/Gathering_Objects_Police27465B87942F32E9FE70AF0A1DADCEE9F.tmp' to '../../../../../../Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/NPC/Characters/Animations/Gathering_Objects_Police2.uasset'
+[2023.10.24-14.07.05:795][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 7.23 sec)
+[2023.10.24-14.07.05:800][992]AssetCheck: New page: Asset Save: Gathering_Objects_Police2
+[2023.10.24-14.07.05:800][992]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/NPC/Characters/Animations/Gathering_Objects_Police2.Gathering_Objects_Police2
