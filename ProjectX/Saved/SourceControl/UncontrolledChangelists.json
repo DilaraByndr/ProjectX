@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/NPC/Characters/Police_Idle_.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/NPC/Characters/Police_Idle__Anim_mixamo_com.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/NPC/Characters/Police_Idle__Anim_Take_001.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/NPC/Characters/Police_Idle__PhysicsAsset.uasset",
+				"C:/Users/asliceren/Documents/GitHub/ProjectX/ProjectX/Content/NPC/Characters/Police_Idle__Skeleton.uasset",
 				"C:/Users/Tarkan/Documents/GitHub/ProjectX/ProjectX/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Tarkan/Documents/GitHub/ProjectX/ProjectX/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/NR/3FM7L8W9GIX8Q53VZKVD4E.uasset",
 				"C:/Users/Tarkan/Documents/GitHub/ProjectX/ProjectX/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/MF/RU1LCKFJOT22JS1DRC5WOC.uasset",
