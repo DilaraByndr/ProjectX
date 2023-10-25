@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "id": "0",
+      "type": "Npc",
+      "start": true,
+      "position": { "x": -10.888348310111624, "y": 307 },
+      "size": { "width": "250", "height": "100" },
+      "title": "",
+      "text": "selam",
+      "data": []
+    },
+    {
+      "id": "1",
+      "type": "Player",
+      "position": { "x": 341, "y": 209.75 },
+      "size": { "width": "250", "height": "100" },
+      "title": "",
+      "text": "naber",
+      "data": []
+    },
+    {
+      "id": "2",
+      "type": "Player",
+      "position": { "x": 1122.1832148526576, "y": 409.0040336644124 },
+      "size": { "width": "250", "height": "100" },
+      "title": "",
+      "text": "kötü\n",
+      "data": []
+    },
+    {
+      "id": "3",
+      "type": "Npc",
+      "position": { "x": 730.9757980135256, "y": 249.75320211982944 },
+      "size": { "width": "250", "height": "100" },
+      "title": "",
+      "text": "iyi senden",
+      "data": []
+    }
+  ],
+  [
+    { "source": "0", "sourceHandle": "out", "target": "1", "targetHandle": "in" },
+    { "source": "1", "sourceHandle": "out", "target": "3", "targetHandle": "in" },
+    { "source": "3", "sourceHandle": "out", "target": "2", "targetHandle": "in" }
+  ]
+]
